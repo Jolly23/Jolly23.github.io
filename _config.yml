@@ -1,12 +1,12 @@
 # Site settings
 title: Jolly Zhao / 赵磊
 description: Jolly's resume and treasure chest
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Jolly Zhao
-user_description: I’m now doing my second-year Master in Computer Science at USC. I’m expected to graduate in 2021 summer. Now I’m living in Los Angeles.
+user_description: I’m now doing my second-year Master in Computer Science at University of Southern California. I’m expected to graduate in 2021 summer.
 user_title: Student/Software Developer/Trader
 email: zhaolei@pm.me
 twitter_username: Jolly23
