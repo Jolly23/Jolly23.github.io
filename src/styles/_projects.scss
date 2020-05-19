@@ -15,7 +15,7 @@
   img {
     max-width: 100%;
     height: auto;
-    border-radius: 5px;
+    border-radius: 10px;
   }
   h5 {
     margin: 0;
@@ -25,13 +25,10 @@
   }
   p {
     margin-right: 5px;
-  }
-}
-
-.contents {
-  @media only screen and (min-width: $cut) {
-    margin-left: 0;
-    width: 48%;
+    margin: 5px;
+    a {
+        color: wheat;
+    }
   }
 }
 
@@ -42,17 +39,7 @@
     width: 48%;
   }
 }
-.images-right {
-  @media only screen and (min-width: $cut) {
-    float: right;
-    width: 48%;
-  }
-  img {
-    @media only screen and (min-width: $cut) {
-      float: right;
-    }
-  }
-}
+
 
 .images-left {
   @media only screen and (min-width: $cut) {
